@@ -1,0 +1,6 @@
+{
+  "name": "Seguimiento Infantil",
+  "description": "Aplicación de seguimiento de niños en tiempo real con geolocalización, zonas de seguridad, historial de rutas y botón de pánico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
